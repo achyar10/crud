@@ -131,7 +131,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `user_email`, `user_password`, `user_full_name`, `user_image`, `user_description`, `user_role_role_id`, `user_is_deleted`, `user_input_date`, `user_last_update`) VALUES
-(1, 'achyar.anshorie@gmail.com', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'Achyar Anshorie', NULL, 'Administrator', 1, 0, '2018-01-15 20:19:33', '2018-01-17 07:43:04');
+(1, 'admin@admin.com', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'Administrator', NULL, 'Administrator', 1, 0, '2018-01-15 20:19:33', '2018-01-17 07:43:04');
 
 -- --------------------------------------------------------
 
